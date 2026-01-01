@@ -1,5 +1,5 @@
 # Loan Approval Insight Visualization
-
+<img width="731" height="726" alt="Image" src="https://github.com/user-attachments/assets/d2759049-36f3-4091-85ff-695483c8b43a" />
 Power BI & Excel Data Analysis Project
 ## Project Overview
 This project provides a data-driven analysis of loan approval decisions using Power BI and Excel.
