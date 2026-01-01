@@ -1,4 +1,5 @@
 # Loan Approval Insight Visualization
+
 Power BI & Excel Data Analysis Project
 ## Project Overview
 This project provides a data-driven analysis of loan approval decisions using Power BI and Excel.
